@@ -31,4 +31,4 @@ $ ./<executable-file>
 
 ## License
 
-This project is MIT licensed.
+All codes are released under the MIT license.
