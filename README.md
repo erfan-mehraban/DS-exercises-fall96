@@ -5,16 +5,16 @@ Archive of **Data Structures and Algorithms** course's assignments at **Amirkabi
 
 ## Running Codes
 
-Running Python code is easy as running following command:
+Running Python codes is easy as running following command:
 ```bash
 $ python <filename>
 ```
-Also C++ codes that have been written in a single file can use as follow:
+Also C++ codes that have been written in a single file can be used as follow:
 ```bash
 $ g++ <filename> -o assignment
 $ ./assignment
 ```
-C++ codes with multiple files, contain a Makefile. So you should run the code like this:
+C++ codes with multiple files, contain a Makefile. So you should run the codes like this:
 ```bash
 $ make
 $ ./<executable-file>
