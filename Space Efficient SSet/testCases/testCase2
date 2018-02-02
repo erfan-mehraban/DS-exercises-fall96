@@ -1,0 +1,9 @@
+8
+remove x0
+add x0 0.0
+add x1 1.2
+add x5 1.1
+find x2
+remove x2
+remove x5
+find x2

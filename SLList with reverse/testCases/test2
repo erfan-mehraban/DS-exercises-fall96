@@ -1,0 +1,12 @@
+11
+addFirst 8
+removeLast
+addLast 6
+removeLast
+addFirst 3
+addFirst 2
+addFirst 1
+removeLast
+removeLast
+removeLast
+removeLast
