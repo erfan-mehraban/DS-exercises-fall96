@@ -25,7 +25,7 @@ $ ./<executable-file>
 
 * [Erfan Mehraban](http://erfanmehraban.ir)
 * Kamyab Zare
-* Ghazale Kharadpour
+* [Ghazale Kharadpour](https://github.com/gazelle98)
 * [Arya Hadi](http://aryaha.com)
 
 
