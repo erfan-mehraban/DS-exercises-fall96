@@ -19,6 +19,13 @@ C++ codes with multiple files, contain a Makefile. So you should run the codes l
 $ make
 $ ./<executable-file>
 ```
+To compile the  Java file, open your terminal and type:
+```javac filename.java
+```
+To run the generated class file, use:
+```java filename
+```
+But to do this you need to have the Java JDK installed in your computer.
 
 
 ## Code Contributors
@@ -27,7 +34,8 @@ $ ./<executable-file>
 * [Kamyab Zare](https://github.com/kamyab98)
 * [Ghazale Kharadpour](https://github.com/gazelle98)
 * [Arya Hadi](http://aryaha.com)
-
+* [Reza Mashayekhi](https://github.com/RezaMashayekhi)
+* [Pouya Aghahosseini]()
 
 ## License
 
