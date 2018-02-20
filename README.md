@@ -37,7 +37,7 @@ But to do this you need to have the Java JDK installed in your computer.
 * [Ghazale Kharadpour](https://github.com/gazelle98)
 * [Arya Hadi](http://aryaha.com)
 * [Reza Mashayekhi](https://github.com/RezaMashayekhi)
-* [Pouya Aghahosseini](https://github.com/pouya318)
+* [Pouya Aghahosseini](https://github.com/pouyaaghahoseini)
 
 ## License
 
