@@ -20,10 +20,12 @@ $ make
 $ ./<executable-file>
 ```
 To compile the  Java file, open your terminal and type:
-```javac filename.java
+```bash
+javac filename.java
 ```
 To run the generated class file, use:
-```java filename
+```bash
+java filename
 ```
 But to do this you need to have the Java JDK installed in your computer.
 
